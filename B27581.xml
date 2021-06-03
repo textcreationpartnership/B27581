@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The old exchange to the new stadt-house, or, The frogs are in fear that the sun should marry</title>
+            <author>Ogilby, John, 1600-1676.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27581</idno><idno type="EEBO-CITATION">31355619</idno>
+  <idno type="VID">205948</idno>
+  <idno type="EEBO-PROQUEST">2240857595</idno>
+  
+            <idno type="STC">Wing O202A</idno>
+            <idno type="OCLC">31355619</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205948)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1750:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The old exchange to the new stadt-house, or, The frogs are in fear that the sun should marry</title>
+                  <author>Ogilby, John, 1600-1676.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the the Year 1667, for F.C. ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Attributed to John Ogilby by Wing (2nd ed.) and BM, under title, "Holland nightingale, or, The sweet singers of Amsterdam."</note>
+                  <note>The text of this work is the same as that of "Holland nightingale, or, The sweet singers of Amsterdam" found at reels 363:16 (Wing O5) and 1750:25 (Wing 2nd ed. O172D).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Netherlands --  Politics and government --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205948:1"/>
+            <p>THE OLD EXCHANGE TO THE <hi>New Stadt-house:</hi> OR, <hi>The</hi> Frogs <hi>are in Fear that the Sun should Marry.</hi>
+            </p>
+            <q>
+               <p>In nova fert animus mutatas dicere formas Corpora.</p>
+               <bibl>
+                  <hi>Ovid Metam.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year 1667. for <hi>F. C.</hi> near the <hi>Bridge.</hi>
+            </p>
+            <p>Price 1 <hi>d.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:205948:2"/>
+            <head>The old <hi>Exchange</hi> to the new <hi>Stadt House,</hi> &amp;c.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">L</seg>OW Country Provinces, united Bogs,</l>
+               <l>Once distrest States, now <hi>Hogen Mogen</hi> Frogs;</l>
+               <l>Royal and Noble Int'rest gone, Command;</l>
+               <l>Grown formidable both at Sea and Land:</l>
+               <l>Who but a Century of Years before</l>
+               <l>Dabbled in Fishing, despicably Poor,</l>
+               <l>In seamless Vessels, Troughs, cut out of Logs,</l>
+               <l>Catch'd W<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ting-Mops; now <hi>Gogs</hi> and <hi>Gog-magogs,</hi>
+               </l>
+               <l>In stately Pines new Constellations raise,</l>
+               <l>Ploughing <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>illow Two and Thirty Ways;</l>
+               <l>Through boiling Brine, through Cakes of crusted Ice,</l>
+               <l>For Gold and Silver, Ivory, Oyl, and Spice;</l>
+               <l>What Straights, Gulphs, treading Days, spare they to pierce,</l>
+               <pb n="3" facs="tcp:205948:2"/>
+               <l>By Water to take in the Universe?</l>
+               <l>Are they with Force not able to Invade?</l>
+               <l>No Matter; they'll undo the World by Trade.</l>
+               <l>Four Frogs, two Tod-pols, and one greasy Toad,</l>
+               <l>Deep freighted Bottoms bear from Road to Road.</l>
+            </lg>
+            <lg>
+               <l>Whom now a consternating Panick Fear</l>
+               <l>Dejected much: The Sun will wed they hear;</l>
+               <l>The News from <hi>India,</hi> worse than Plague or War,</l>
+               <l>Brought and attested by the blazing Star.</l>
+               <l>To Pigmy Inches these gygantick Frogs,</l>
+               <l>Pale Terror shrunk; summon'd from all the Bogs,</l>
+               <l>Hopping or Crawling they in Clusters came,</l>
+               <l>Up to their Prime <hi>Morrass,</hi> their greatest <hi>Damm.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There the new <hi>Stadt-House</hi> stands built fair and large,</l>
+               <l>For their own Profit, but the People's charge;</l>
+               <l>Where they in all Emergencies of State,</l>
+               <l>Or private Business in Convention sate:</l>
+            </lg>
+            <lg>
+               <l>No <hi>Portico</hi> this modern Building fac'd,</l>
+               <l>Within no ancient Princes Figures grac'd;</l>
+               <pb facs="tcp:205948:3"/>
+               <l>Nor Grandfires with their Nets, such were too Poor</l>
+               <l>To stand with Bosoms there behind the Door,</l>
+               <l>Who for their own <hi>Good Old Cause</hi> Martyrs dy'd</l>
+               <l>By Hemp, or by more Realous Faggots try'd,</l>
+               <l>But Gods and Goddesses in Marble carv'd,</l>
+               <l>Or finely Painted, which the Heathen serv'd,</l>
+               <l>In all the <hi>Nieches,</hi> each convenient Place</l>
+               <l>In Stone or Tables the fair Structure Grace;</l>
+               <l>But yet for all their Skill, these B—k Toads</l>
+               <l>Made <hi>Upsie D—h</hi> Heroes, Grecian Gods.</l>
+               <l>Early his Day assembled Old and Young,</l>
+               <l>The <hi>Dam</hi> they cover, and the <hi>Stadt-House</hi> throng,</l>
+               <l>Silence commanded, not one whispering Croak,</l>
+               <l>An old Sag-bellied Toad rising, thus spoke.</l>
+            </lg>
+            <lg>
+               <l>Grave <hi>Hogen Mogen,</hi> High and Mighty Frogs?</l>
+               <l>Whose Care and Prudence fertiliz'd the Bogs,</l>
+               <l>And so improv'd these your United States,</l>
+               <l>Princes to Beard, and be with Kings <hi>Cope Mates,</hi>
+               </l>
+               <l>Though we from Mushrooms sprung, and Spawn of Toads,</l>
+               <l>Like Palaces are now our fair Aboads;</l>
+               <pb n="5" facs="tcp:205948:3"/>
+               <l>When through B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ack Waters, and a salt <hi>Morass,</hi>
+               </l>
+               <l>We in cutt Trenches safe at pleasure pass,</l>
+               <l>From <hi>Damn</hi> to <hi>Damn,</hi> and Time with Talk beguile</l>
+               <l>Our selves and Goods landing, 'thout Care or Toyl;</l>
+               <l>From which new Water-works more Rent you raise</l>
+               <l>Then from rank <hi>Acres,</hi> where fat Oxen grase,</l>
+            </lg>
+            <lg>
+               <l>But what of the Improvements will become?</l>
+               <l>The Sun will wed, and Nuptials keep at home:</l>
+               <l>Whom Laws of Gods and Men allow a Year</l>
+               <l>From Warr or Travel, with his fair Compeer;</l>
+               <l>His Absence will our Marshes in a Trice</l>
+               <l>To Crystal turn a never thawing Ice.</l>
+               <l>Or shou'd we scape such a continued Frost</l>
+               <l>As girdles up nine Months the <hi>Artick</hi> Coast,</l>
+               <l>His teeming Spouse may yet produce a Son</l>
+               <l>Shall quite out of the Beaten <hi>Zodiack</hi> run,</l>
+               <l>So unexperienc'd drive his Father's Chair,</l>
+               <l>That soon to fire he'll rarefie the Air,</l>
+               <l>Water and Earth to Dust and Ashes turn,</l>
+               <l>And all in one new Conflagration burn</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:205948:4"/>
+               <l>They tell how <hi>Phaeton</hi> our ample Bogs,</l>
+               <l>To Jelly boyl'd; Stew'd Tod-pods, Toads and Frogs</l>
+               <l>In one Pottage, and <hi>Pluto</hi> gave, who swore</l>
+               <l>He never tasted Broth so Rich before.</l>
+               <l>Many such Yonkors may spring from his Loyns,</l>
+               <l>And share his Houses twelve Caelestial signs;</l>
+               <l>And they may wed have Sons, and Daughters too:</l>
+               <l>What in this Imminent Danger shall we do!</l>
+               <l>To what Protector shall we make address?</l>
+               <l>All know that <hi>Neptune</hi> this concerns no less;</l>
+               <l>Such drinking Sons may at one Meeting Quaff,</l>
+               <l>If he had twenty Plumbless Oceans off.</l>
+               <l>Him to implore lay by next Sabbath Day,</l>
+               <l>We're no such Jews, nor Christians but we may:</l>
+               <l>He heard us lately when a swelling Tide</l>
+               <l>Imbodied, Threatned o'r our Tow'rs to ride;</l>
+               <l>And soon as mov'd, with his great <hi>Trident</hi> came,</l>
+               <l>Beats of green Reg'ments storm'd our yielding Dame,</l>
+               <l>Which had they batter'd but nine Inches higher,</l>
+               <l>We had not liv'd ruin to fear by Fire.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:205948:4"/>
+               <l>This said, Oh wondrous! the Foundations quake,</l>
+               <l>And the stiff Idols, fixt in Marble, Shake;</l>
+               <l>When <hi>Neptune,</hi> where he did in Triumph ride</l>
+               <l>On a rich Shell, his Cheeks fresh Sanguine dy'd,</l>
+               <l>His <hi>Trident</hi> waving then with Arms display'd,</l>
+               <l>Thus to the great Convention wondring said.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Batavian</hi> Frogs, advanc'd by me sole Power</l>
+               <l>Whom <hi>Jove</hi> first planted from a Thunder Shower,</l>
+               <l>Fear not the Sun, nor at his Of-spring shake:</l>
+               <l>To the last drop I'll drain my ample Lake,</l>
+               <l>My watery Kingdoms Laver into Suds,</l>
+               <l>To quench their Torches; to the <hi>Stygian</hi> Floods</l>
+               <l>I'll <hi>Titan</hi> send, and all his fiery Titts,</l>
+               <l>To light their Lamps, and to regain their Wits.</l>
+               <l>Lay idle Fears aside, he'll never Wed,</l>
+               <l>Nor plant a Female in a flaming Bed.</l>
+               <l>Suspect no Confilgrations from the East;</l>
+               <l>But a new Sun now rising in the West;</l>
+               <pb n="8" facs="tcp:205948:5"/>
+               <l>His flames beware, make Peace or arm with speed;</l>
+               <l>You more than all the Elements with need:</l>
+               <l>Call our Supernal, Call th' infernal List,</l>
+               <l>Both Gods and Fiends to weak are to resist.</l>
+               <l>He Threatens my large Arms to bind in Chains,</l>
+               <l>And now at home a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> second <hi>Heptune</hi> reigns;</l>
+               <l>Who three great Nations sways, and two fair Isles,</l>
+               <l>His People <hi>Ruler of the Ocean</hi> Stiles.</l>
+            </lg>
+            <lg>
+               <l>This said, their God grows pale, Limbs stiff and cold,</l>
+               <l>Trembling with fear, Shrunk in their Marble mold.</l>
+            </lg>
+            <lg>
+               <head>MORAL.</head>
+               <l>
+                  <hi>Est nihil asperius quam humilis quam surgit in altum.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Princes beware to aid a growing State,</l>
+               <l>Lest they be first that give you the check Mate.</l>
+               <l>Wealth and success turns humbleness to pride:</l>
+               <l>Beggars on Horseback to the Devil ride.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205948:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
